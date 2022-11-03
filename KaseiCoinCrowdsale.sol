@@ -32,7 +32,7 @@ contract KaseiCoinCrowdsaleDeployer {
         // Create a new instance of the KaseiCoin contract.
         // YOUR CODE HERE!
         
-        // Assign the token contract’s address to the `kasei_token_address` variable.
+        // Assign the token contract’s address to the `kasei_token_address` variable..
         // YOUR CODE HERE!
 
         // Create a new instance of the `KaseiCoinCrowdsale` contract
